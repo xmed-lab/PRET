@@ -1,0 +1,468 @@
+{
+    "6bfd050fc762a4933464bbde8d49e3ed": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "a71f50f85e0011803e006c91a53d10b3": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "317f29347b5aa775769e2af69797fd48": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "fe7018ba399a11027b6debbfdc5e3774": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "8780ba778f557f5fdd7d334430860cae": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "690ef30bb2b2c67aec10aa611b9606a6": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "7748e748828ee3119edc24c6e2168c7d": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "c68c9c0ad887f1c1cca08f3e6b1e8989": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/c68c9c0ad887f1c1cca08f3e6b1e8989.png",
+        "pos_patch_num": 5105,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "c0a11bb2bc08b22ea683cebce2a37d0b": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "1f09634dd42bc01e06db27a9177560a8": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/1f09634dd42bc01e06db27a9177560a8.png",
+        "pos_patch_num": 796,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "03e0d08885a3ab10487f606d5003eaa9": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "d3dd90974ae3ca153969567f93090a4b": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "f1d826032970c769908119260d6c1cad": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "534a65515794576dcbbd785ce72fffdc": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "485f8401e64ceb9aab11469c52273188": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/485f8401e64ceb9aab11469c52273188.png",
+        "pos_patch_num": 5343,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "dde5facc0da879a907bc03129ed0c395": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/dde5facc0da879a907bc03129ed0c395.png",
+        "pos_patch_num": 1240,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "ea858381be792b7883a75d6be66a81f9": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/ea858381be792b7883a75d6be66a81f9.png",
+        "pos_patch_num": 1566,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "dc441458142adadbe5815bda9c9bb03a": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/dc441458142adadbe5815bda9c9bb03a.png",
+        "pos_patch_num": 3178,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "d7e9fac71fccbf38dcbe4bd7864245a2": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "1e55cca541fc4035541793ece502925f": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/1e55cca541fc4035541793ece502925f.png",
+        "pos_patch_num": 1067,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "a49f821b8970011a0a284979fc47eda5": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/a49f821b8970011a0a284979fc47eda5.png",
+        "pos_patch_num": 1647,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "0c4ff3fb5ade0775a1be206a744e3680": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/0c4ff3fb5ade0775a1be206a744e3680.png",
+        "pos_patch_num": 753,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "5b3836bb3ff90362b29f51be0f6d6054": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/5b3836bb3ff90362b29f51be0f6d6054.png",
+        "pos_patch_num": 1561,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "7fe19446995c1d742ea9718c2a6c2246": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/7fe19446995c1d742ea9718c2a6c2246.png",
+        "pos_patch_num": 7112,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "0fc1dce814b9cf37dac13fbdfa277ec2": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "90a84d725897e2a1723b6453692be2db": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/90a84d725897e2a1723b6453692be2db.png",
+        "pos_patch_num": 1773,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "27e67fac4cc3060eddccdd67778ff12f": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "148113c2b975398fc40921c0e51e45da": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/148113c2b975398fc40921c0e51e45da.png",
+        "pos_patch_num": 1226,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "c9f0aca527b2d2a46661f2829ad71345": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "81cda4c217241a89e081a62443897042": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "30de2769cd826af0c19dbcd0b8cf1481": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "d9e71dafd8e6fda0421617a8b7adcfbe": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/d9e71dafd8e6fda0421617a8b7adcfbe.png",
+        "pos_patch_num": 8194,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "fac45c893c903471ed36dc272306587d": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "19a99c66c4a35c323531e3288e294448": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "774f86902157cf0e1b01011c5219e79d": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "05b73d33a9548af3b47c10eba559eb7d": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "c07c341222e3320b9eefed474d4ce486": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "e9c5d4549267a5f8dd45d1aba327287b": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/e9c5d4549267a5f8dd45d1aba327287b.png",
+        "pos_patch_num": 2178,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "04c1f8e6a5905d0278e097c1b1b9f304": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "15ef73c542c010522508b07af100e572": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/15ef73c542c010522508b07af100e572.png",
+        "pos_patch_num": 3126,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "5decc4c758535213dfc4e7d0411e55cc": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "694be2ab67db213d6fbc31ee4099670d": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "0583d9bcaef6d7a2e7913e526b28bb62": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/0583d9bcaef6d7a2e7913e526b28bb62.png",
+        "pos_patch_num": 2167,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "51a1beeccf8bc5a09daabedf8478783f": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/51a1beeccf8bc5a09daabedf8478783f.png",
+        "pos_patch_num": 1828,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "25ebda2b921a8158c949d870cc96b423": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "7c8c8ff0fb8711deb3ee7ad17d5bece3": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/7c8c8ff0fb8711deb3ee7ad17d5bece3.png",
+        "pos_patch_num": 2661,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "98c9f68e4f0896efb72eee2e2b7506ab": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/98c9f68e4f0896efb72eee2e2b7506ab.png",
+        "pos_patch_num": 1237,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "37bc58ccab0297ec4763b8ec50f83ced": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "7fba3f3c246d90f0016d037960d11811": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "27646b890db944523ce8c3757c94386a": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "e510f272b0f9a44d6f73295404f17d2a": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/e510f272b0f9a44d6f73295404f17d2a.png",
+        "pos_patch_num": 1840,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "e4627f44235159ec78d73cc605f97631": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/e4627f44235159ec78d73cc605f97631.png",
+        "pos_patch_num": 2975,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "9845e386c42abccea8e6c9fd00631907": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/9845e386c42abccea8e6c9fd00631907.png",
+        "pos_patch_num": 4594,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "4cce7a363a39cb5b912ea5de4fcc5712": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/4cce7a363a39cb5b912ea5de4fcc5712.png",
+        "pos_patch_num": 10731,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "a9b9292e7141be13a889d32c418d6afd": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "e2765dee6dca0771ea655bb649483632": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "ac238021f0711a56fb6f60a1e93a9c2f": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/ac238021f0711a56fb6f60a1e93a9c2f.png",
+        "pos_patch_num": 4755,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "44690e931350c96df6f2b4cee70e14ee": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "34cbab6cbaf3dc41dd5ff646ef670a92": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "de291462642f4a88362248629d279cd4": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "82edc706fd60f27944d6603b99060c71": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "0ca88b53575c1133204394b2d4709030": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "2fb6e170bb927eb4bd1073529aed0cca": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/2fb6e170bb927eb4bd1073529aed0cca.png",
+        "pos_patch_num": 1981,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "e781e866ccd56cf81945d57f75c19d24": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "4e9b1e4b41833710c650e3e5612e15ad": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/4e9b1e4b41833710c650e3e5612e15ad.png",
+        "pos_patch_num": 3493,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "b5460b8c1aa97477a854fce28e63737f": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "71918592dfbc9be6c719470e6ad383d3": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "d452b68823bf8a011f547adcbff4c58a": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/d452b68823bf8a011f547adcbff4c58a.png",
+        "pos_patch_num": 1548,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "a8ff37ab0645229dd71e476254d6dad6": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "035a27060e4a61e3ea94f184dd1c837c": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "07c07713f8a799ffa64ece7622e089f1": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/07c07713f8a799ffa64ece7622e089f1.png",
+        "pos_patch_num": 4212,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "d3125b7dc5d20279cf020f8d9b5ce8ab": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/d3125b7dc5d20279cf020f8d9b5ce8ab.png",
+        "pos_patch_num": 5916,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "1e7e0f04f73757424ff798f295fd3a59": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/1e7e0f04f73757424ff798f295fd3a59.png",
+        "pos_patch_num": 6196,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "d2ed8aad5c67f59fbb4037a36dd659e8": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "a4f6d109b8843184d47e048710a44133": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "cb5c167bcbe1edf52d11afa38dbadc5c": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "c8764b9e7f42a411aa508248c1e2f736": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "05aed2e5b8f8dc40cc4819af9682fc7f": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "2d4ff6fc1ca1b161081882c998f16e19": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "06bf81019656aaf09afe784bbd66300c": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "0466f2b96ee02bcfc61c85bd112be778": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/0466f2b96ee02bcfc61c85bd112be778.png",
+        "pos_patch_num": 1822,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "6c1d776db1d4430e87e84d0411b17d7d": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/6c1d776db1d4430e87e84d0411b17d7d.png",
+        "pos_patch_num": 2646,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "139c9981b5b649e5b5ba17e1a23336fd": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/139c9981b5b649e5b5ba17e1a23336fd.png",
+        "pos_patch_num": 3717,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "92d018e5ebf695eabb125341af64ce92": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "dc6f50c2ba43fbd25cac97ccfd012c05": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/dc6f50c2ba43fbd25cac97ccfd012c05.png",
+        "pos_patch_num": 1984,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "a045e165128543623db46e6fd4756e83": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/a045e165128543623db46e6fd4756e83.png",
+        "pos_patch_num": 2188,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "4a846822ccdc6059306b1f5299010147": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/4a846822ccdc6059306b1f5299010147.png",
+        "pos_patch_num": 5123,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "d4a393b660bd6e44c6266235f1b93d06": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "355018b8cf6c9636b35911fd155fef37": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "c3418a4ff78d9637f439080c1d1c36b2": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "7411d47980c51d0a6b077b97b5e2baab": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/7411d47980c51d0a6b077b97b5e2baab.png",
+        "pos_patch_num": 3858,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "ad46d8ed69f5c497a77cd44148561fb4": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "6de35a619b5a97373c58dc929d88fd11": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "d8449db9fdd6b1d82eab4babc4d7c5f8": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "42500f56b51147812180d2e0fea213f7": {
+        "patch_labels": "data/NSCLC_HQ/patch/gt/42500f56b51147812180d2e0fea213f7.png",
+        "pos_patch_num": 5206,
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "16c7b0d978c6e5e989175ec4ccc94654": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    },
+    "ace901e938ad46839d93b8950c6ad3dd": {
+        "wsi_label": 2,
+        "fixed_test_set": false
+    }
+}

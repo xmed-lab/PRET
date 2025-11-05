@@ -1,0 +1,365 @@
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: /home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchvision/image.so: undefined symbol: _ZNK3c1010TensorImpl36is_contiguous_nondefault_policy_implENS_12MemoryFormatE
+  warn(f"Failed to load image Python extension: {e}")
+start feature processing ...
+finish feature processing and saving!
+searching ignore, param: 0
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9944, auc std: 0.0014, f1 mean: 0.9381, f1 std: 0.014, acc mean: 0.9686, acc std: 0.0036
+searching ignore, param: 0.02
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9942, auc std: 0.0016, f1 mean: 0.9368, f1 std: 0.0159, acc mean: 0.9681, acc std: 0.0037
+searching ignore, param: 0.04
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9942, auc std: 0.0017, f1 mean: 0.9371, f1 std: 0.0175, acc mean: 0.9683, acc std: 0.0038
+searching ignore, param: 0.06
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9943, auc std: 0.0018, f1 mean: 0.9376, f1 std: 0.0185, acc mean: 0.9688, acc std: 0.004
+searching ignore, param: 0.08
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9946, auc std: 0.0016, f1 mean: 0.9397, f1 std: 0.0168, acc mean: 0.9697, acc std: 0.0035
+params: ignore, searched threshold: 0.08, mean:0.9946
+searching topk, param: 20
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching topk, param: 30
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9948, auc std: 0.0015, f1 mean: 0.9408, f1 std: 0.0161, acc mean: 0.9702, acc std: 0.0035
+searching topk, param: 40
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9946, auc std: 0.0016, f1 mean: 0.9397, f1 std: 0.0168, acc mean: 0.9697, acc std: 0.0035
+searching topk, param: 50
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9946, auc std: 0.0017, f1 mean: 0.9387, f1 std: 0.0187, acc mean: 0.9693, acc std: 0.0041
+searching topk, param: 60
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.9946, auc std: 0.0018, f1 mean: 0.9388, f1 std: 0.0192, acc mean: 0.9694, acc std: 0.0045
+params: topk, searched threshold: 20, mean:0.995
+searching related_thresh, param: 0.86
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching related_thresh, param: 0.87
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching related_thresh, param: 0.88
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching related_thresh, param: 0.89
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching related_thresh, param: 0.9
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+params: related_thresh, searched threshold: 0.86, mean:0.995
+searching temperature, param: 1
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching temperature, param: 5
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching temperature, param: 10
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching temperature, param: 20
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+searching temperature, param: 30
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+auc mean: 0.995, auc std: 0.0014, f1 mean: 0.9424, f1 std: 0.0151, acc mean: 0.971, acc std: 0.0031
+params: temperature, searched threshold: 1, mean:0.995
+Namespace(mode='default', topk=20, top_instance=3000, temperature=1, related_thresh=0.86, example_num=8, multiple_num=[1, 2, 4, 8], raw_feature_path='data/ESCC/patch/features', wsi_path='data/ESCC/images', dump_features='data/ESCC/patch/collected_features', dump_pseudo='', dump_records='records/ESCC_segmentation_roughMask_default.npy', vis_path='', dataset_info='data_info/ESCC.json', patch_scale=512, file_min_size=5000, c=1, seg=True, prompt_type='roughMask', prompt_path='data/ESCC/anno', ignore=0.08, ignore_query=0.2, seed=1024, runs=5, val_num=100, test_num=-1, val_ratio=0.3334)
+eval 1-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9849, test auc:0.9851, val acc: 0.9539, test f1: 0.8848, test acc: 0.9493
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9952, test auc:0.9952, val acc: 0.9751, test f1: 0.9077, test acc: 0.9702
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9925, test auc:0.9948, val acc: 0.9598, test f1: 0.9225, test acc: 0.9745
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9973, test auc:0.9939, val acc: 0.9792, test f1: 0.9094, test acc: 0.9732
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9905, test auc:0.9807, val acc: 0.9624, test f1: 0.82, test acc: 0.9418
+auc mean: 0.99, auc std: 0.0059, f1 mean: 0.8889, f1 std: 0.0365, acc mean: 0.9618, acc std: 0.0135
+eval 2-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9749, test auc:0.9903, val acc: 0.9415, test f1: 0.8986, test acc: 0.9547
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9889, test auc:0.9923, val acc: 0.9528, test f1: 0.9129, test acc: 0.9702
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9883, test auc:0.9915, val acc: 0.9642, test f1: 0.8926, test acc: 0.9515
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9948, test auc:0.9917, val acc: 0.9765, test f1: 0.9076, test acc: 0.9608
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9948, test auc:0.996, val acc: 0.9788, test f1: 0.9359, test acc: 0.9723
+auc mean: 0.9923, auc std: 0.0019, f1 mean: 0.9095, f1 std: 0.0149, acc mean: 0.9619, acc std: 0.0082
+eval 4-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9912, test auc:0.9921, val acc: 0.9705, test f1: 0.908, test acc: 0.9609
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9947, test auc:0.9955, val acc: 0.9719, test f1: 0.9383, test acc: 0.9763
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9965, test auc:0.9944, val acc: 0.9727, test f1: 0.8966, test acc: 0.9759
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9946, test auc:0.995, val acc: 0.9792, test f1: 0.9284, test acc: 0.9701
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9933, test auc:0.9964, val acc: 0.975, test f1: 0.9439, test acc: 0.9713
+auc mean: 0.9947, auc std: 0.0015, f1 mean: 0.923, f1 std: 0.018, acc mean: 0.9709, acc std: 0.0056
+eval 8-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9955, test auc:0.9957, val acc: 0.9736, test f1: 0.9434, test acc: 0.975
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.997, test auc:0.9964, val acc: 0.975, test f1: 0.9249, test acc: 0.9766
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9943, test auc:0.9963, val acc: 0.9714, test f1: 0.9446, test acc: 0.9761
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9953, test auc:0.9924, val acc: 0.967, test f1: 0.8877, test acc: 0.975
+/home/ylini/PRET/core/main.py:398: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  pred = torch.tensor(patch_pred_list)
+class:1 val auc:0.9928, test auc:0.9962, val acc: 0.968, test f1: 0.9319, test acc: 0.9782
+auc mean: 0.9954, auc std: 0.0015, f1 mean: 0.9265, f1 std: 0.0207, acc mean: 0.9762, acc std: 0.0012

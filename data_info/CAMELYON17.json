@@ -1,0 +1,3799 @@
+{
+    "normal_001": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_002": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_003": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_004": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_005": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_006": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_007": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_008": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_009": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_010": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_011": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_012": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_013": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_014": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_015": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_016": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_017": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_018": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_019": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_020": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_021": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_022": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_023": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_024": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_025": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_026": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_027": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_028": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_029": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_030": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_031": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_032": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_033": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_034": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_035": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_036": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_037": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_038": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_039": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_040": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_041": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_042": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_043": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_044": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_045": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_046": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_047": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_048": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_049": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_050": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_051": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_052": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_053": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_054": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_055": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_056": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_057": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_058": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_059": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_060": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_061": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_062": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_063": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_064": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_065": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_066": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_067": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_068": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_069": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_070": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_071": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_072": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_073": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_074": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_075": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_076": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_077": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_078": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_079": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_080": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_081": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_082": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_083": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_084": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_085": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_087": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_088": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_089": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_090": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_091": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_092": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_093": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_094": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_095": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_096": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_097": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_098": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_099": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_100": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_101": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_102": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_103": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_104": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_105": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_106": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_107": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_108": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_109": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_110": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_111": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_112": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_113": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_114": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_115": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_116": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_117": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_118": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_119": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_120": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_121": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_122": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_123": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_124": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_125": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_126": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_127": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_128": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_129": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_130": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_131": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_132": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_133": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_134": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_135": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_136": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_137": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_138": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_139": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_140": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_141": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_142": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_143": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_144": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_145": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_146": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_147": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_148": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_149": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_150": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_151": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_152": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_153": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_154": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_155": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_156": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_157": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_158": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_159": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_160": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "tumor_001": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_001.png",
+        "wsi_label": 1,
+        "pos_patch_num": 73,
+        "fixed_test_set": false
+    },
+    "tumor_002": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_002.png",
+        "wsi_label": 1,
+        "pos_patch_num": 10,
+        "fixed_test_set": false
+    },
+    "tumor_003": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_003.png",
+        "wsi_label": 1,
+        "pos_patch_num": 57,
+        "fixed_test_set": false
+    },
+    "tumor_004": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_004.png",
+        "wsi_label": 1,
+        "pos_patch_num": 173,
+        "fixed_test_set": false
+    },
+    "tumor_005": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_005.png",
+        "wsi_label": 1,
+        "pos_patch_num": 26,
+        "fixed_test_set": false
+    },
+    "tumor_006": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_006.png",
+        "wsi_label": 1,
+        "pos_patch_num": 30,
+        "fixed_test_set": false
+    },
+    "tumor_007": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_007.png",
+        "wsi_label": 1,
+        "pos_patch_num": 30,
+        "fixed_test_set": false
+    },
+    "tumor_008": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_008.png",
+        "wsi_label": 1,
+        "pos_patch_num": 16,
+        "fixed_test_set": false
+    },
+    "tumor_009": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_009.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3525,
+        "fixed_test_set": false
+    },
+    "tumor_010": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_010.png",
+        "wsi_label": 1,
+        "pos_patch_num": 12,
+        "fixed_test_set": false
+    },
+    "tumor_011": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_011.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1077,
+        "fixed_test_set": false
+    },
+    "tumor_012": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_012.png",
+        "wsi_label": 1,
+        "pos_patch_num": 10,
+        "fixed_test_set": false
+    },
+    "tumor_013": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_013.png",
+        "wsi_label": 1,
+        "pos_patch_num": 60,
+        "fixed_test_set": false
+    },
+    "tumor_014": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_014.png",
+        "wsi_label": 1,
+        "pos_patch_num": 336,
+        "fixed_test_set": false
+    },
+    "tumor_015": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_015.png",
+        "wsi_label": 1,
+        "pos_patch_num": 91,
+        "fixed_test_set": false
+    },
+    "tumor_016": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_016.png",
+        "wsi_label": 1,
+        "pos_patch_num": 739,
+        "fixed_test_set": false
+    },
+    "tumor_017": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_017.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_018": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_018.png",
+        "wsi_label": 1,
+        "pos_patch_num": 326,
+        "fixed_test_set": false
+    },
+    "tumor_019": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_019.png",
+        "wsi_label": 1,
+        "pos_patch_num": 25,
+        "fixed_test_set": false
+    },
+    "tumor_020": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_020.png",
+        "wsi_label": 1,
+        "pos_patch_num": 520,
+        "fixed_test_set": false
+    },
+    "tumor_021": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_021.png",
+        "wsi_label": 1,
+        "pos_patch_num": 212,
+        "fixed_test_set": false
+    },
+    "tumor_022": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_022.png",
+        "wsi_label": 1,
+        "pos_patch_num": 33,
+        "fixed_test_set": false
+    },
+    "tumor_023": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_023.png",
+        "wsi_label": 1,
+        "pos_patch_num": 27,
+        "fixed_test_set": false
+    },
+    "tumor_024": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_024.png",
+        "wsi_label": 1,
+        "pos_patch_num": 12,
+        "fixed_test_set": false
+    },
+    "tumor_025": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_025.png",
+        "wsi_label": 1,
+        "pos_patch_num": 402,
+        "fixed_test_set": false
+    },
+    "tumor_026": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_026.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3521,
+        "fixed_test_set": false
+    },
+    "tumor_027": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_027.png",
+        "wsi_label": 1,
+        "pos_patch_num": 24,
+        "fixed_test_set": false
+    },
+    "tumor_028": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_028.png",
+        "wsi_label": 1,
+        "pos_patch_num": 33,
+        "fixed_test_set": false
+    },
+    "tumor_029": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_029.png",
+        "wsi_label": 1,
+        "pos_patch_num": 384,
+        "fixed_test_set": false
+    },
+    "tumor_030": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_030.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_031": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_031.png",
+        "wsi_label": 1,
+        "pos_patch_num": 841,
+        "fixed_test_set": false
+    },
+    "tumor_032": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_032.png",
+        "wsi_label": 1,
+        "pos_patch_num": 31,
+        "fixed_test_set": false
+    },
+    "tumor_033": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_033.png",
+        "wsi_label": 1,
+        "pos_patch_num": 654,
+        "fixed_test_set": false
+    },
+    "tumor_034": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_034.png",
+        "wsi_label": 1,
+        "pos_patch_num": 377,
+        "fixed_test_set": false
+    },
+    "tumor_035": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_035.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_036": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_036.png",
+        "wsi_label": 1,
+        "pos_patch_num": 619,
+        "fixed_test_set": false
+    },
+    "tumor_037": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_037.png",
+        "wsi_label": 1,
+        "pos_patch_num": 269,
+        "fixed_test_set": false
+    },
+    "tumor_038": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_038.png",
+        "wsi_label": 1,
+        "pos_patch_num": 240,
+        "fixed_test_set": false
+    },
+    "tumor_039": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_039.png",
+        "wsi_label": 1,
+        "pos_patch_num": 914,
+        "fixed_test_set": false
+    },
+    "tumor_040": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_040.png",
+        "wsi_label": 1,
+        "pos_patch_num": 19,
+        "fixed_test_set": false
+    },
+    "tumor_041": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_041.png",
+        "wsi_label": 1,
+        "pos_patch_num": 26,
+        "fixed_test_set": false
+    },
+    "tumor_042": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_042.png",
+        "wsi_label": 1,
+        "pos_patch_num": 215,
+        "fixed_test_set": false
+    },
+    "tumor_043": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_043.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4,
+        "fixed_test_set": false
+    },
+    "tumor_044": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_044.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4566,
+        "fixed_test_set": false
+    },
+    "tumor_045": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_045.png",
+        "wsi_label": 1,
+        "pos_patch_num": 79,
+        "fixed_test_set": false
+    },
+    "tumor_046": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_046.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3760,
+        "fixed_test_set": false
+    },
+    "tumor_047": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_047.png",
+        "wsi_label": 1,
+        "pos_patch_num": 2879,
+        "fixed_test_set": false
+    },
+    "tumor_048": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_048.png",
+        "wsi_label": 1,
+        "pos_patch_num": 27,
+        "fixed_test_set": false
+    },
+    "tumor_049": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_049.png",
+        "wsi_label": 1,
+        "pos_patch_num": 24,
+        "fixed_test_set": false
+    },
+    "tumor_050": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_050.png",
+        "wsi_label": 1,
+        "pos_patch_num": 49,
+        "fixed_test_set": false
+    },
+    "tumor_051": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_051.png",
+        "wsi_label": 1,
+        "pos_patch_num": 486,
+        "fixed_test_set": false
+    },
+    "tumor_052": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_052.png",
+        "wsi_label": 1,
+        "pos_patch_num": 295,
+        "fixed_test_set": false
+    },
+    "tumor_053": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_053.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": false
+    },
+    "tumor_054": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_054.png",
+        "wsi_label": 1,
+        "pos_patch_num": 6529,
+        "fixed_test_set": false
+    },
+    "tumor_055": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_055.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1414,
+        "fixed_test_set": false
+    },
+    "tumor_056": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_056.png",
+        "wsi_label": 1,
+        "pos_patch_num": 214,
+        "fixed_test_set": false
+    },
+    "tumor_057": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_057.png",
+        "wsi_label": 1,
+        "pos_patch_num": 33,
+        "fixed_test_set": false
+    },
+    "tumor_058": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_058.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1509,
+        "fixed_test_set": false
+    },
+    "tumor_059": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_059.png",
+        "wsi_label": 1,
+        "pos_patch_num": 6,
+        "fixed_test_set": false
+    },
+    "tumor_060": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_060.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_061": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_061.png",
+        "wsi_label": 1,
+        "pos_patch_num": 783,
+        "fixed_test_set": false
+    },
+    "tumor_062": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_062.png",
+        "wsi_label": 1,
+        "pos_patch_num": 167,
+        "fixed_test_set": false
+    },
+    "tumor_063": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_063.png",
+        "wsi_label": 1,
+        "pos_patch_num": 24,
+        "fixed_test_set": false
+    },
+    "tumor_064": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_064.png",
+        "wsi_label": 1,
+        "pos_patch_num": 732,
+        "fixed_test_set": false
+    },
+    "tumor_065": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_065.png",
+        "wsi_label": 1,
+        "pos_patch_num": 32,
+        "fixed_test_set": false
+    },
+    "tumor_066": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_066.png",
+        "wsi_label": 1,
+        "pos_patch_num": 12,
+        "fixed_test_set": false
+    },
+    "tumor_067": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_067.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_068": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_068.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1234,
+        "fixed_test_set": false
+    },
+    "tumor_069": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_069.png",
+        "wsi_label": 1,
+        "pos_patch_num": 72,
+        "fixed_test_set": false
+    },
+    "tumor_070": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_070.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": false
+    },
+    "tumor_071": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_071.png",
+        "wsi_label": 1,
+        "pos_patch_num": 435,
+        "fixed_test_set": false
+    },
+    "tumor_072": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_072.png",
+        "wsi_label": 1,
+        "pos_patch_num": 536,
+        "fixed_test_set": false
+    },
+    "tumor_073": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_073.png",
+        "wsi_label": 1,
+        "pos_patch_num": 59,
+        "fixed_test_set": false
+    },
+    "tumor_074": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_074.png",
+        "wsi_label": 1,
+        "pos_patch_num": 75,
+        "fixed_test_set": false
+    },
+    "tumor_075": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_075.png",
+        "wsi_label": 1,
+        "pos_patch_num": 398,
+        "fixed_test_set": false
+    },
+    "tumor_076": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_076.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9650,
+        "fixed_test_set": false
+    },
+    "tumor_077": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_077.png",
+        "wsi_label": 1,
+        "pos_patch_num": 91,
+        "fixed_test_set": false
+    },
+    "tumor_078": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_078.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4830,
+        "fixed_test_set": false
+    },
+    "tumor_079": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_079.png",
+        "wsi_label": 1,
+        "pos_patch_num": 114,
+        "fixed_test_set": false
+    },
+    "tumor_080": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_080.png",
+        "wsi_label": 1,
+        "pos_patch_num": 77,
+        "fixed_test_set": false
+    },
+    "tumor_081": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_081.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": false
+    },
+    "tumor_082": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_082.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1116,
+        "fixed_test_set": false
+    },
+    "tumor_083": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_083.png",
+        "wsi_label": 1,
+        "pos_patch_num": 261,
+        "fixed_test_set": false
+    },
+    "tumor_084": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_084.png",
+        "wsi_label": 1,
+        "pos_patch_num": 249,
+        "fixed_test_set": false
+    },
+    "tumor_085": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_085.png",
+        "wsi_label": 1,
+        "pos_patch_num": 2180,
+        "fixed_test_set": false
+    },
+    "tumor_086": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_086.png",
+        "wsi_label": 1,
+        "pos_patch_num": 15,
+        "fixed_test_set": false
+    },
+    "tumor_087": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_087.png",
+        "wsi_label": 1,
+        "pos_patch_num": 37,
+        "fixed_test_set": false
+    },
+    "tumor_088": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_088.png",
+        "wsi_label": 1,
+        "pos_patch_num": 918,
+        "fixed_test_set": false
+    },
+    "tumor_089": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_089.png",
+        "wsi_label": 1,
+        "pos_patch_num": 7823,
+        "fixed_test_set": false
+    },
+    "tumor_090": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_090.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1025,
+        "fixed_test_set": false
+    },
+    "tumor_091": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_091.png",
+        "wsi_label": 1,
+        "pos_patch_num": 287,
+        "fixed_test_set": false
+    },
+    "tumor_092": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_092.png",
+        "wsi_label": 1,
+        "pos_patch_num": 159,
+        "fixed_test_set": false
+    },
+    "tumor_093": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_093.png",
+        "wsi_label": 1,
+        "pos_patch_num": 32,
+        "fixed_test_set": false
+    },
+    "tumor_094": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_094.png",
+        "wsi_label": 1,
+        "pos_patch_num": 288,
+        "fixed_test_set": false
+    },
+    "tumor_095": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_095.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3897,
+        "fixed_test_set": false
+    },
+    "tumor_096": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_096.png",
+        "wsi_label": 1,
+        "pos_patch_num": 266,
+        "fixed_test_set": false
+    },
+    "tumor_097": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_097.png",
+        "wsi_label": 1,
+        "pos_patch_num": 74,
+        "fixed_test_set": false
+    },
+    "tumor_098": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_098.png",
+        "wsi_label": 1,
+        "pos_patch_num": 14,
+        "fixed_test_set": false
+    },
+    "tumor_099": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_099.png",
+        "wsi_label": 1,
+        "pos_patch_num": 157,
+        "fixed_test_set": false
+    },
+    "tumor_100": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_100.png",
+        "wsi_label": 1,
+        "pos_patch_num": 34,
+        "fixed_test_set": false
+    },
+    "tumor_101": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_101.png",
+        "wsi_label": 1,
+        "pos_patch_num": 952,
+        "fixed_test_set": false
+    },
+    "tumor_102": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_102.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1779,
+        "fixed_test_set": false
+    },
+    "tumor_103": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_103.png",
+        "wsi_label": 1,
+        "pos_patch_num": 67,
+        "fixed_test_set": false
+    },
+    "tumor_104": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_104.png",
+        "wsi_label": 1,
+        "pos_patch_num": 499,
+        "fixed_test_set": false
+    },
+    "tumor_105": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_105.png",
+        "wsi_label": 1,
+        "pos_patch_num": 706,
+        "fixed_test_set": false
+    },
+    "tumor_106": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_106.png",
+        "wsi_label": 1,
+        "pos_patch_num": 635,
+        "fixed_test_set": false
+    },
+    "tumor_107": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_107.png",
+        "wsi_label": 1,
+        "pos_patch_num": 42,
+        "fixed_test_set": false
+    },
+    "tumor_108": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_108.png",
+        "wsi_label": 1,
+        "pos_patch_num": 400,
+        "fixed_test_set": false
+    },
+    "tumor_109": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_109.png",
+        "wsi_label": 1,
+        "pos_patch_num": 609,
+        "fixed_test_set": false
+    },
+    "tumor_110": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_110.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4602,
+        "fixed_test_set": false
+    },
+    "tumor_111": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_111.png",
+        "wsi_label": 1,
+        "pos_patch_num": 62,
+        "fixed_test_set": false
+    },
+    "patient_000_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_000_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_000_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_000_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_000_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_001_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_001_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_001_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_001_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_001_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_002_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_002_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_002_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_002_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_002_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_003_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_003_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_003_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_003_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_003_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_004_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_004_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_004_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_004_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_004_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_005_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_005_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_005_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_005_node_3": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_005_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_006_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_006_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_006_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_006_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_006_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_007_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_007_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_007_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_007_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_007_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_008_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_008_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_008_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_008_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_008_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_009_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_009_node_1": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_009_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_009_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_009_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_010_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_010_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_010_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_010_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_010_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_011_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_011_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_011_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_011_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_011_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_012_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_012_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_012_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_012_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_012_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_013_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_013_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_013_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_013_node_3": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_013_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_014_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_014_node_1": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_014_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_014_node_3": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_014_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_015_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_015_node_1": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_015_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_015_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_015_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_016_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_016_node_1": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_016_node_2": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_016_node_3": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_016_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_017_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_017_node_1": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_017_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_017_node_3": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_017_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_018_node_0": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_018_node_1": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_018_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_018_node_3": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_018_node_4": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_019_node_0": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_019_node_1": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_019_node_2": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_019_node_3": {
+        "wsi_label": 1,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_019_node_4": {
+        "wsi_label": 0,
+        "center": 0,
+        "fixed_test_set": true
+    },
+    "patient_020_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_020_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_020_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_020_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_020_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_021_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_021_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_021_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_021_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_021_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_022_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_022_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_022_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_022_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_022_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_023_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_023_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_023_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_023_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_023_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_024_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_024_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_024_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_024_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_024_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_025_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_025_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_025_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_025_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_025_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_026_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_026_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_026_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_026_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_026_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_027_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_027_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_027_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_027_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_027_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_028_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_028_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_028_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_028_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_028_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_029_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_029_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_029_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_029_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_029_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_030_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_030_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_030_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_030_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_030_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_031_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_031_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_031_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_031_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_031_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_032_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_032_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_032_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_032_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_032_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_033_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_033_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_033_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_033_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_033_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_034_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_034_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_034_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_034_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_034_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_035_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_035_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_035_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_035_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_035_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_036_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_036_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_036_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_036_node_3": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_036_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_037_node_0": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_037_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_037_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_037_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_037_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_038_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_038_node_1": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_038_node_2": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_038_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_038_node_4": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_039_node_0": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_039_node_1": {
+        "wsi_label": 1,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_039_node_2": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_039_node_3": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_039_node_4": {
+        "wsi_label": 0,
+        "center": 1,
+        "fixed_test_set": true
+    },
+    "patient_040_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_040_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_040_node_2": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_040_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_040_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_041_node_0": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_041_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_041_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_041_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_041_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_042_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_042_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_042_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_042_node_3": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_042_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_043_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_043_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_043_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_043_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_043_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_044_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_044_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_044_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_044_node_3": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_044_node_4": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_045_node_0": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_045_node_1": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_045_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_045_node_3": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_045_node_4": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_046_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_046_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_046_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_046_node_3": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_046_node_4": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_047_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_047_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_047_node_2": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_047_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_047_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_048_node_0": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_048_node_1": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_048_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_048_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_048_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_049_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_049_node_1": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_049_node_2": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_049_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_049_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_050_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_050_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_050_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_050_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_050_node_4": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_051_node_0": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_051_node_1": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_051_node_2": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_051_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_051_node_4": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_052_node_0": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_052_node_2": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_052_node_3": {
+        "wsi_label": 1,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_052_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_053_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_053_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_053_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_053_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_053_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_054_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_054_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_054_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_054_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_054_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_055_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_055_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_055_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_055_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_055_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_056_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_056_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_056_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_056_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_056_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_057_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_057_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_057_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_057_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_057_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_058_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_058_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_058_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_058_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_058_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_059_node_0": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_059_node_1": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_059_node_2": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_059_node_3": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_059_node_4": {
+        "wsi_label": 0,
+        "center": 2,
+        "fixed_test_set": true
+    },
+    "patient_060_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_060_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_060_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_060_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_060_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_061_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_061_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_061_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_061_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_061_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_062_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_062_node_1": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_062_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_062_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_062_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_063_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_063_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_063_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_063_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_063_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_064_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_064_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_064_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_064_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_064_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_065_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_065_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_065_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_065_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_065_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_066_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_066_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_066_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_066_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_066_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_067_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_067_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_067_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_067_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_067_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_068_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_068_node_1": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_068_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_068_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_068_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_069_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_069_node_1": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_069_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_069_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_069_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_070_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_070_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_070_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_070_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_070_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_071_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_071_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_071_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_071_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_071_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_072_node_0": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_072_node_1": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_072_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_072_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_072_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_073_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_073_node_1": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_073_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_073_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_073_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_074_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_074_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_074_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_074_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_074_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_075_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_075_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_075_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_075_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_075_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_076_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_076_node_1": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_076_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_076_node_3": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_076_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_077_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_077_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_077_node_2": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_077_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_077_node_4": {
+        "wsi_label": 1,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_078_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_078_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_078_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_078_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_078_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_079_node_0": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_079_node_1": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_079_node_2": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_079_node_3": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_079_node_4": {
+        "wsi_label": 0,
+        "center": 3,
+        "fixed_test_set": true
+    },
+    "patient_080_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_080_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_080_node_2": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_080_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_080_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_081_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_081_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_081_node_2": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_081_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_081_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_082_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_082_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_082_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_082_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_082_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_083_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_083_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_083_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_083_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_083_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_084_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_084_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_084_node_2": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_084_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_084_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_085_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_085_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_085_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_085_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_085_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_086_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_086_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_086_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_086_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_086_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_087_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_087_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_087_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_087_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_087_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_088_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_088_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_088_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_088_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_088_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_089_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_089_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_089_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_089_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_089_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_090_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_090_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_090_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_090_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_090_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_091_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_091_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_091_node_2": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_091_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_091_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_092_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_092_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_092_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_092_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_092_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_093_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_093_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_093_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_093_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_093_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_094_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_094_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_094_node_2": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_094_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_094_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_095_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_095_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_095_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_095_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_095_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_096_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_096_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_096_node_2": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_096_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_096_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_097_node_0": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_097_node_1": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_097_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_097_node_3": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_097_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_098_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_098_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_098_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_098_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_098_node_4": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_099_node_0": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_099_node_1": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_099_node_2": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_099_node_3": {
+        "wsi_label": 0,
+        "center": 4,
+        "fixed_test_set": true
+    },
+    "patient_099_node_4": {
+        "wsi_label": 1,
+        "center": 4,
+        "fixed_test_set": true
+    }
+}

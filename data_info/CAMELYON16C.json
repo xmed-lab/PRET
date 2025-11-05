@@ -1,0 +1,1918 @@
+{
+    "normal_001": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_002": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_003": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_004": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_005": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_006": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_007": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_008": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_009": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_010": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_011": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_012": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_013": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_014": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_015": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_016": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_017": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_018": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_019": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_020": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_021": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_022": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_023": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_024": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_025": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_026": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_027": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_028": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_029": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_030": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_031": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_032": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_033": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_034": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_035": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_036": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_037": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_038": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_039": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_040": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_041": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_042": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_043": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_044": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_045": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_046": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_047": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_048": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_049": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_050": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_051": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_052": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_053": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_054": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_055": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_056": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_057": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_058": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_059": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_060": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_061": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_062": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_063": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_064": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_065": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_066": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_067": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_068": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_069": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_070": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_071": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_072": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_073": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_074": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_075": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_076": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_077": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_078": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_079": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_080": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_081": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_082": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_083": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_084": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_085": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_087": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_088": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_089": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_090": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_091": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_092": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_093": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_094": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_095": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_096": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_097": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_098": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_099": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_100": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_101": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_102": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_103": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_104": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_105": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_106": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_107": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_108": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_109": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_110": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_111": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_112": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_113": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_114": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_115": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_116": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_117": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_118": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_119": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_120": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_121": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_122": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_123": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_124": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_125": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_126": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_127": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_128": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_129": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_130": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_131": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_132": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_133": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_134": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_135": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_136": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_137": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_138": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_139": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_140": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_141": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_142": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_143": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_144": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_145": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_146": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_147": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_148": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_149": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_150": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_151": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_152": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_153": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_154": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_155": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_156": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_157": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_158": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_159": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "normal_160": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "test_001": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_001.png",
+        "wsi_label": 1,
+        "pos_patch_num": 524,
+        "fixed_test_set": true
+    },
+    "test_002": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_002.png",
+        "wsi_label": 1,
+        "pos_patch_num": 220,
+        "fixed_test_set": true
+    },
+    "test_003": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_004": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_004.png",
+        "wsi_label": 1,
+        "pos_patch_num": 10,
+        "fixed_test_set": true
+    },
+    "test_005": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_006": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_007": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_008": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_008.png",
+        "wsi_label": 1,
+        "pos_patch_num": 29,
+        "fixed_test_set": true
+    },
+    "test_009": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_010": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_010.png",
+        "wsi_label": 1,
+        "pos_patch_num": 7,
+        "fixed_test_set": true
+    },
+    "test_011": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_011.png",
+        "wsi_label": 1,
+        "pos_patch_num": 6,
+        "fixed_test_set": true
+    },
+    "test_012": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_013": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_013.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": true
+    },
+    "test_014": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_015": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_016": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_016.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3048,
+        "fixed_test_set": true
+    },
+    "test_017": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_018": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_019": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_020": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_021": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_021.png",
+        "wsi_label": 1,
+        "pos_patch_num": 14245,
+        "fixed_test_set": true
+    },
+    "test_022": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_023": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_024": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_025": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_026": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_026.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1650,
+        "fixed_test_set": true
+    },
+    "test_027": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_027.png",
+        "wsi_label": 1,
+        "pos_patch_num": 212,
+        "fixed_test_set": true
+    },
+    "test_028": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_029": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_029.png",
+        "wsi_label": 1,
+        "pos_patch_num": 18,
+        "fixed_test_set": true
+    },
+    "test_030": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_030.png",
+        "wsi_label": 1,
+        "pos_patch_num": 163,
+        "fixed_test_set": true
+    },
+    "test_031": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_032": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_033": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_033.png",
+        "wsi_label": 1,
+        "pos_patch_num": 21,
+        "fixed_test_set": true
+    },
+    "test_034": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_035": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_036": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_037": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_038": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_038.png",
+        "wsi_label": 1,
+        "pos_patch_num": 55,
+        "fixed_test_set": true
+    },
+    "test_039": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_040": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_040.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1826,
+        "fixed_test_set": true
+    },
+    "test_041": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_042": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_043": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_044": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_045": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_046": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_046.png",
+        "wsi_label": 1,
+        "pos_patch_num": 21,
+        "fixed_test_set": true
+    },
+    "test_047": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_048": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_048.png",
+        "wsi_label": 1,
+        "pos_patch_num": 81,
+        "fixed_test_set": true
+    },
+    "test_050": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_051": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_051.png",
+        "wsi_label": 1,
+        "pos_patch_num": 445,
+        "fixed_test_set": true
+    },
+    "test_052": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_052.png",
+        "wsi_label": 1,
+        "pos_patch_num": 6,
+        "fixed_test_set": true
+    },
+    "test_053": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_054": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_055": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_056": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_057": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_058": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_059": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_060": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_061": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_061.png",
+        "wsi_label": 1,
+        "pos_patch_num": 234,
+        "fixed_test_set": true
+    },
+    "test_062": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_063": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_064": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_064.png",
+        "wsi_label": 1,
+        "pos_patch_num": 16,
+        "fixed_test_set": true
+    },
+    "test_065": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_065.png",
+        "wsi_label": 1,
+        "pos_patch_num": 23,
+        "fixed_test_set": true
+    },
+    "test_066": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_066.png",
+        "wsi_label": 1,
+        "pos_patch_num": 36,
+        "fixed_test_set": true
+    },
+    "test_067": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_068": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_068.png",
+        "wsi_label": 1,
+        "pos_patch_num": 769,
+        "fixed_test_set": true
+    },
+    "test_069": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_069.png",
+        "wsi_label": 1,
+        "pos_patch_num": 225,
+        "fixed_test_set": true
+    },
+    "test_070": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_071": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_071.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1816,
+        "fixed_test_set": true
+    },
+    "test_072": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_073": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_073.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3168,
+        "fixed_test_set": true
+    },
+    "test_074": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_074.png",
+        "wsi_label": 1,
+        "pos_patch_num": 28,
+        "fixed_test_set": true
+    },
+    "test_075": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_075.png",
+        "wsi_label": 1,
+        "pos_patch_num": 723,
+        "fixed_test_set": true
+    },
+    "test_076": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_077": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_078": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_079": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_079.png",
+        "wsi_label": 1,
+        "pos_patch_num": 126,
+        "fixed_test_set": true
+    },
+    "test_080": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_081": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_082": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_082.png",
+        "wsi_label": 1,
+        "pos_patch_num": 695,
+        "fixed_test_set": true
+    },
+    "test_083": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_084": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_084.png",
+        "wsi_label": 1,
+        "pos_patch_num": 74,
+        "fixed_test_set": true
+    },
+    "test_085": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_086": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_087": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_088": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_089": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_090": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_090.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9356,
+        "fixed_test_set": true
+    },
+    "test_091": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_092": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_092.png",
+        "wsi_label": 1,
+        "pos_patch_num": 64,
+        "fixed_test_set": true
+    },
+    "test_093": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_094": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_094.png",
+        "wsi_label": 1,
+        "pos_patch_num": 481,
+        "fixed_test_set": true
+    },
+    "test_095": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_096": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_097": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_097.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": true
+    },
+    "test_098": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_099": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_099.png",
+        "wsi_label": 1,
+        "pos_patch_num": 14,
+        "fixed_test_set": true
+    },
+    "test_100": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_101": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_102": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_102.png",
+        "wsi_label": 1,
+        "pos_patch_num": 115,
+        "fixed_test_set": true
+    },
+    "test_103": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_104": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_104.png",
+        "wsi_label": 1,
+        "pos_patch_num": 314,
+        "fixed_test_set": true
+    },
+    "test_105": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_105.png",
+        "wsi_label": 1,
+        "pos_patch_num": 21401,
+        "fixed_test_set": true
+    },
+    "test_106": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_107": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_108": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_108.png",
+        "wsi_label": 1,
+        "pos_patch_num": 69,
+        "fixed_test_set": true
+    },
+    "test_109": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_110": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_110.png",
+        "wsi_label": 1,
+        "pos_patch_num": 14,
+        "fixed_test_set": true
+    },
+    "test_111": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_112": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_113": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_113.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5910,
+        "fixed_test_set": true
+    },
+    "test_114": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_114.png",
+        "wsi_label": 1,
+        "pos_patch_num": 7052,
+        "fixed_test_set": true
+    },
+    "test_115": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_116": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_116.png",
+        "wsi_label": 1,
+        "pos_patch_num": 11,
+        "fixed_test_set": true
+    },
+    "test_117": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_117.png",
+        "wsi_label": 1,
+        "pos_patch_num": 10,
+        "fixed_test_set": true
+    },
+    "test_118": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_119": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_120": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_121": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_121.png",
+        "wsi_label": 1,
+        "pos_patch_num": 152,
+        "fixed_test_set": true
+    },
+    "test_122": {
+        "patch_labels": "data/CAMELYON16/patch/gt/test_122.png",
+        "wsi_label": 1,
+        "pos_patch_num": 94,
+        "fixed_test_set": true
+    },
+    "test_123": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_124": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_125": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_126": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_127": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_128": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_129": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "test_130": {
+        "wsi_label": 0,
+        "fixed_test_set": true
+    },
+    "tumor_001": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_001.png",
+        "wsi_label": 1,
+        "pos_patch_num": 73,
+        "fixed_test_set": false
+    },
+    "tumor_002": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_002.png",
+        "wsi_label": 1,
+        "pos_patch_num": 10,
+        "fixed_test_set": false
+    },
+    "tumor_003": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_003.png",
+        "wsi_label": 1,
+        "pos_patch_num": 57,
+        "fixed_test_set": false
+    },
+    "tumor_004": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_004.png",
+        "wsi_label": 1,
+        "pos_patch_num": 173,
+        "fixed_test_set": false
+    },
+    "tumor_005": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_005.png",
+        "wsi_label": 1,
+        "pos_patch_num": 26,
+        "fixed_test_set": false
+    },
+    "tumor_006": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_006.png",
+        "wsi_label": 1,
+        "pos_patch_num": 30,
+        "fixed_test_set": false
+    },
+    "tumor_007": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_007.png",
+        "wsi_label": 1,
+        "pos_patch_num": 30,
+        "fixed_test_set": false
+    },
+    "tumor_008": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_008.png",
+        "wsi_label": 1,
+        "pos_patch_num": 16,
+        "fixed_test_set": false
+    },
+    "tumor_009": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_009.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3525,
+        "fixed_test_set": false
+    },
+    "tumor_010": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_010.png",
+        "wsi_label": 1,
+        "pos_patch_num": 12,
+        "fixed_test_set": false
+    },
+    "tumor_011": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_011.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1077,
+        "fixed_test_set": false
+    },
+    "tumor_012": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_012.png",
+        "wsi_label": 1,
+        "pos_patch_num": 10,
+        "fixed_test_set": false
+    },
+    "tumor_013": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_013.png",
+        "wsi_label": 1,
+        "pos_patch_num": 60,
+        "fixed_test_set": false
+    },
+    "tumor_014": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_014.png",
+        "wsi_label": 1,
+        "pos_patch_num": 336,
+        "fixed_test_set": false
+    },
+    "tumor_015": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_015.png",
+        "wsi_label": 1,
+        "pos_patch_num": 91,
+        "fixed_test_set": false
+    },
+    "tumor_016": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_016.png",
+        "wsi_label": 1,
+        "pos_patch_num": 739,
+        "fixed_test_set": false
+    },
+    "tumor_017": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_017.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_018": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_018.png",
+        "wsi_label": 1,
+        "pos_patch_num": 326,
+        "fixed_test_set": false
+    },
+    "tumor_019": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_019.png",
+        "wsi_label": 1,
+        "pos_patch_num": 25,
+        "fixed_test_set": false
+    },
+    "tumor_020": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_020.png",
+        "wsi_label": 1,
+        "pos_patch_num": 520,
+        "fixed_test_set": false
+    },
+    "tumor_021": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_021.png",
+        "wsi_label": 1,
+        "pos_patch_num": 212,
+        "fixed_test_set": false
+    },
+    "tumor_022": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_022.png",
+        "wsi_label": 1,
+        "pos_patch_num": 33,
+        "fixed_test_set": false
+    },
+    "tumor_023": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_023.png",
+        "wsi_label": 1,
+        "pos_patch_num": 27,
+        "fixed_test_set": false
+    },
+    "tumor_024": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_024.png",
+        "wsi_label": 1,
+        "pos_patch_num": 12,
+        "fixed_test_set": false
+    },
+    "tumor_025": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_025.png",
+        "wsi_label": 1,
+        "pos_patch_num": 402,
+        "fixed_test_set": false
+    },
+    "tumor_026": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_026.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3521,
+        "fixed_test_set": false
+    },
+    "tumor_027": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_027.png",
+        "wsi_label": 1,
+        "pos_patch_num": 24,
+        "fixed_test_set": false
+    },
+    "tumor_028": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_028.png",
+        "wsi_label": 1,
+        "pos_patch_num": 33,
+        "fixed_test_set": false
+    },
+    "tumor_029": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_029.png",
+        "wsi_label": 1,
+        "pos_patch_num": 384,
+        "fixed_test_set": false
+    },
+    "tumor_030": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_030.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_031": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_031.png",
+        "wsi_label": 1,
+        "pos_patch_num": 841,
+        "fixed_test_set": false
+    },
+    "tumor_032": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_032.png",
+        "wsi_label": 1,
+        "pos_patch_num": 31,
+        "fixed_test_set": false
+    },
+    "tumor_033": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_033.png",
+        "wsi_label": 1,
+        "pos_patch_num": 654,
+        "fixed_test_set": false
+    },
+    "tumor_034": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_034.png",
+        "wsi_label": 1,
+        "pos_patch_num": 377,
+        "fixed_test_set": false
+    },
+    "tumor_035": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_035.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_036": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_036.png",
+        "wsi_label": 1,
+        "pos_patch_num": 619,
+        "fixed_test_set": false
+    },
+    "tumor_037": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_037.png",
+        "wsi_label": 1,
+        "pos_patch_num": 269,
+        "fixed_test_set": false
+    },
+    "tumor_038": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_038.png",
+        "wsi_label": 1,
+        "pos_patch_num": 240,
+        "fixed_test_set": false
+    },
+    "tumor_039": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_039.png",
+        "wsi_label": 1,
+        "pos_patch_num": 914,
+        "fixed_test_set": false
+    },
+    "tumor_040": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_040.png",
+        "wsi_label": 1,
+        "pos_patch_num": 19,
+        "fixed_test_set": false
+    },
+    "tumor_041": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_041.png",
+        "wsi_label": 1,
+        "pos_patch_num": 26,
+        "fixed_test_set": false
+    },
+    "tumor_042": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_042.png",
+        "wsi_label": 1,
+        "pos_patch_num": 215,
+        "fixed_test_set": false
+    },
+    "tumor_043": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_043.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4,
+        "fixed_test_set": false
+    },
+    "tumor_044": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_044.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4566,
+        "fixed_test_set": false
+    },
+    "tumor_045": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_045.png",
+        "wsi_label": 1,
+        "pos_patch_num": 79,
+        "fixed_test_set": false
+    },
+    "tumor_046": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_046.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3760,
+        "fixed_test_set": false
+    },
+    "tumor_047": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_047.png",
+        "wsi_label": 1,
+        "pos_patch_num": 2879,
+        "fixed_test_set": false
+    },
+    "tumor_048": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_048.png",
+        "wsi_label": 1,
+        "pos_patch_num": 27,
+        "fixed_test_set": false
+    },
+    "tumor_049": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_049.png",
+        "wsi_label": 1,
+        "pos_patch_num": 24,
+        "fixed_test_set": false
+    },
+    "tumor_050": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_050.png",
+        "wsi_label": 1,
+        "pos_patch_num": 49,
+        "fixed_test_set": false
+    },
+    "tumor_051": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_051.png",
+        "wsi_label": 1,
+        "pos_patch_num": 486,
+        "fixed_test_set": false
+    },
+    "tumor_052": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_052.png",
+        "wsi_label": 1,
+        "pos_patch_num": 295,
+        "fixed_test_set": false
+    },
+    "tumor_053": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_053.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": false
+    },
+    "tumor_054": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_054.png",
+        "wsi_label": 1,
+        "pos_patch_num": 6529,
+        "fixed_test_set": false
+    },
+    "tumor_055": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_055.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1414,
+        "fixed_test_set": false
+    },
+    "tumor_056": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_056.png",
+        "wsi_label": 1,
+        "pos_patch_num": 214,
+        "fixed_test_set": false
+    },
+    "tumor_057": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_057.png",
+        "wsi_label": 1,
+        "pos_patch_num": 33,
+        "fixed_test_set": false
+    },
+    "tumor_058": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_058.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1509,
+        "fixed_test_set": false
+    },
+    "tumor_059": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_059.png",
+        "wsi_label": 1,
+        "pos_patch_num": 6,
+        "fixed_test_set": false
+    },
+    "tumor_060": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_060.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_061": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_061.png",
+        "wsi_label": 1,
+        "pos_patch_num": 783,
+        "fixed_test_set": false
+    },
+    "tumor_062": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_062.png",
+        "wsi_label": 1,
+        "pos_patch_num": 167,
+        "fixed_test_set": false
+    },
+    "tumor_063": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_063.png",
+        "wsi_label": 1,
+        "pos_patch_num": 24,
+        "fixed_test_set": false
+    },
+    "tumor_064": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_064.png",
+        "wsi_label": 1,
+        "pos_patch_num": 732,
+        "fixed_test_set": false
+    },
+    "tumor_065": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_065.png",
+        "wsi_label": 1,
+        "pos_patch_num": 32,
+        "fixed_test_set": false
+    },
+    "tumor_066": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_066.png",
+        "wsi_label": 1,
+        "pos_patch_num": 12,
+        "fixed_test_set": false
+    },
+    "tumor_067": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_067.png",
+        "wsi_label": 1,
+        "pos_patch_num": 5,
+        "fixed_test_set": false
+    },
+    "tumor_068": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_068.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1234,
+        "fixed_test_set": false
+    },
+    "tumor_069": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_069.png",
+        "wsi_label": 1,
+        "pos_patch_num": 72,
+        "fixed_test_set": false
+    },
+    "tumor_070": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_070.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": false
+    },
+    "tumor_071": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_071.png",
+        "wsi_label": 1,
+        "pos_patch_num": 435,
+        "fixed_test_set": false
+    },
+    "tumor_072": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_072.png",
+        "wsi_label": 1,
+        "pos_patch_num": 536,
+        "fixed_test_set": false
+    },
+    "tumor_073": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_073.png",
+        "wsi_label": 1,
+        "pos_patch_num": 59,
+        "fixed_test_set": false
+    },
+    "tumor_074": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_074.png",
+        "wsi_label": 1,
+        "pos_patch_num": 75,
+        "fixed_test_set": false
+    },
+    "tumor_075": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_075.png",
+        "wsi_label": 1,
+        "pos_patch_num": 398,
+        "fixed_test_set": false
+    },
+    "tumor_076": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_076.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9650,
+        "fixed_test_set": false
+    },
+    "tumor_077": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_077.png",
+        "wsi_label": 1,
+        "pos_patch_num": 91,
+        "fixed_test_set": false
+    },
+    "tumor_078": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_078.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4830,
+        "fixed_test_set": false
+    },
+    "tumor_079": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_079.png",
+        "wsi_label": 1,
+        "pos_patch_num": 114,
+        "fixed_test_set": false
+    },
+    "tumor_080": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_080.png",
+        "wsi_label": 1,
+        "pos_patch_num": 77,
+        "fixed_test_set": false
+    },
+    "tumor_081": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_081.png",
+        "wsi_label": 1,
+        "pos_patch_num": 9,
+        "fixed_test_set": false
+    },
+    "tumor_082": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_082.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1116,
+        "fixed_test_set": false
+    },
+    "tumor_083": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_083.png",
+        "wsi_label": 1,
+        "pos_patch_num": 261,
+        "fixed_test_set": false
+    },
+    "tumor_084": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_084.png",
+        "wsi_label": 1,
+        "pos_patch_num": 249,
+        "fixed_test_set": false
+    },
+    "tumor_085": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_085.png",
+        "wsi_label": 1,
+        "pos_patch_num": 2180,
+        "fixed_test_set": false
+    },
+    "tumor_086": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_086.png",
+        "wsi_label": 1,
+        "pos_patch_num": 15,
+        "fixed_test_set": false
+    },
+    "tumor_087": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_087.png",
+        "wsi_label": 1,
+        "pos_patch_num": 37,
+        "fixed_test_set": false
+    },
+    "tumor_088": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_088.png",
+        "wsi_label": 1,
+        "pos_patch_num": 918,
+        "fixed_test_set": false
+    },
+    "tumor_089": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_089.png",
+        "wsi_label": 1,
+        "pos_patch_num": 7823,
+        "fixed_test_set": false
+    },
+    "tumor_090": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_090.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1025,
+        "fixed_test_set": false
+    },
+    "tumor_091": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_091.png",
+        "wsi_label": 1,
+        "pos_patch_num": 287,
+        "fixed_test_set": false
+    },
+    "tumor_092": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_092.png",
+        "wsi_label": 1,
+        "pos_patch_num": 159,
+        "fixed_test_set": false
+    },
+    "tumor_093": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_093.png",
+        "wsi_label": 1,
+        "pos_patch_num": 32,
+        "fixed_test_set": false
+    },
+    "tumor_094": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_094.png",
+        "wsi_label": 1,
+        "pos_patch_num": 288,
+        "fixed_test_set": false
+    },
+    "tumor_095": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_095.png",
+        "wsi_label": 1,
+        "pos_patch_num": 3897,
+        "fixed_test_set": false
+    },
+    "tumor_096": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_096.png",
+        "wsi_label": 1,
+        "pos_patch_num": 266,
+        "fixed_test_set": false
+    },
+    "tumor_097": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_097.png",
+        "wsi_label": 1,
+        "pos_patch_num": 74,
+        "fixed_test_set": false
+    },
+    "tumor_098": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_098.png",
+        "wsi_label": 1,
+        "pos_patch_num": 14,
+        "fixed_test_set": false
+    },
+    "tumor_099": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_099.png",
+        "wsi_label": 1,
+        "pos_patch_num": 157,
+        "fixed_test_set": false
+    },
+    "tumor_100": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_100.png",
+        "wsi_label": 1,
+        "pos_patch_num": 34,
+        "fixed_test_set": false
+    },
+    "tumor_101": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_101.png",
+        "wsi_label": 1,
+        "pos_patch_num": 952,
+        "fixed_test_set": false
+    },
+    "tumor_102": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_102.png",
+        "wsi_label": 1,
+        "pos_patch_num": 1779,
+        "fixed_test_set": false
+    },
+    "tumor_103": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_103.png",
+        "wsi_label": 1,
+        "pos_patch_num": 67,
+        "fixed_test_set": false
+    },
+    "tumor_104": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_104.png",
+        "wsi_label": 1,
+        "pos_patch_num": 499,
+        "fixed_test_set": false
+    },
+    "tumor_105": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_105.png",
+        "wsi_label": 1,
+        "pos_patch_num": 706,
+        "fixed_test_set": false
+    },
+    "tumor_106": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_106.png",
+        "wsi_label": 1,
+        "pos_patch_num": 635,
+        "fixed_test_set": false
+    },
+    "tumor_107": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_107.png",
+        "wsi_label": 1,
+        "pos_patch_num": 42,
+        "fixed_test_set": false
+    },
+    "tumor_108": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_108.png",
+        "wsi_label": 1,
+        "pos_patch_num": 400,
+        "fixed_test_set": false
+    },
+    "tumor_109": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_109.png",
+        "wsi_label": 1,
+        "pos_patch_num": 609,
+        "fixed_test_set": false
+    },
+    "tumor_110": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_110.png",
+        "wsi_label": 1,
+        "pos_patch_num": 4602,
+        "fixed_test_set": false
+    },
+    "tumor_111": {
+        "patch_labels": "data/CAMELYON16/patch/gt/tumor_111.png",
+        "wsi_label": 1,
+        "pos_patch_num": 62,
+        "fixed_test_set": false
+    }
+}

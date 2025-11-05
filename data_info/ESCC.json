@@ -1,0 +1,442 @@
+{
+    "c0d0c0ea51c790b9f8048cd9dddb1f9a": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "aeabc2e06f29a4a70e254ae5c000a3a9": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "88dc02c8face0554c014cd303f3ee6ac": {
+        "patch_labels": "data/ESCC/patch/gt/88dc02c8face0554c014cd303f3ee6ac.png",
+        "pos_patch_num": 956,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "ddc29022abf77b4d244afc20f34a7379": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "2dc39dc440bbfafe5a0e60b6bc0e3c2a": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "9f7e6c864d6dc25343b0958ac7a0c380": {
+        "patch_labels": "data/ESCC/patch/gt/9f7e6c864d6dc25343b0958ac7a0c380.png",
+        "pos_patch_num": 1296,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "e806254ee73c3b95f1bdede5645753d9": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "50dde73f647904bf4ed78e102131a27b": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "a7c98bfd843303f716be13e8dca171ff": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "37845b3cc5ab3b4d01e984c7ecf2d25e": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "9a1044e4203cfb76b3dfc1d4a2308975": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "1e12a42dfbef5466d37f099a9340e5d6": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "5e04b0f21b26217930e8c7fd255e6f65": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "6ff3ac902c90f3bd8ad8188b83685eb9": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "3aad8b1f202f189b465f5b3f7cae2fd4": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "4ec028243e371e1658c1be5fbe2c354a": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "18c2e7471c6d05cef87d6d0a8a92682d": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "09f7f006240508afb730d8c1f40d0a0b": {
+        "patch_labels": "data/ESCC/patch/gt/09f7f006240508afb730d8c1f40d0a0b.png",
+        "pos_patch_num": 564,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "5f16cb6084cfa2cd6c019c3166c74fae": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "4b033f8d854fe7e3dde490c23b217615": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "4e5c8c84fce270554a5323c44973d155": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "276b132e363d3ff599e43f0a575c3bd5": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "76acfc8177eb121214a327d8f67011a0": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "596e33c51d4a38a482acc27ea2f2448e": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "f7184f3c90c33193aba78dda7c16119b": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "ca0dd91552cca1b32450ff522ad789e5": {
+        "patch_labels": "data/ESCC/patch/gt/ca0dd91552cca1b32450ff522ad789e5.png",
+        "pos_patch_num": 810,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "a620924365e8b301858e7d52ce647ddd": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "bf5eb78aae4b543d884ae27128c2c3d9": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "ba871b96de9b4d60212f523143412679": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "73f4203639ca7417737bc67b50df6890": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "26055a134aaa8bbfc6c09ccb7f62df77": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "5dc207bb9f9e4a4b5b7b800854430919": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "465848b955737ee8f0f45e08c96fb7a9": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "390545f54fda0f266ade3de4850c63e9": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "2988ce79ab3dcee1263acc842988a9c3": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "4dd895bb9f27075bbdaf1800a14cd316": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "84a945da85742aea70610b57f770c596": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "c0ebd0d4d2892c18dd4978f951600151": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "bd9c76b77011869a552a9cdf62162718": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "9e46957cefb4fa2e5141765590d685d1": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "57a0834ce618a239142763288373ce44": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "eed091f0b1e38116f28c24fa541bc2fc": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "4e04a71a81ec7d16e25172092c5df314": {
+        "patch_labels": "data/ESCC/patch/gt/4e04a71a81ec7d16e25172092c5df314.png",
+        "pos_patch_num": 1698,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "303205b9efd33500f990d95f05039abe": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "02aed6699930c26015117d9ff03a230f": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "b9f706887904101877c68bd7e7e4026d": {
+        "patch_labels": "data/ESCC/patch/gt/b9f706887904101877c68bd7e7e4026d.png",
+        "pos_patch_num": 5148,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "4e614da63ca77c52c96aa3ea79adc516": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "c268e6ba1d954593c9612a2631c85c59": {
+        "patch_labels": "data/ESCC/patch/gt/c268e6ba1d954593c9612a2631c85c59.png",
+        "pos_patch_num": 2819,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "88d7031bb8d0d42cc09deb5cc2fd0a34": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "43ab8e83fc296f421ae0f53df404f63d": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "5f201070b852a885c6b334bb38a83913": {
+        "patch_labels": "data/ESCC/patch/gt/5f201070b852a885c6b334bb38a83913.png",
+        "pos_patch_num": 617,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "36a3c03f01082172bb2ee07bcacffb88": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "3315347292a2f2f9ba2e5bfb735df6ea": {
+        "patch_labels": "data/ESCC/patch/gt/3315347292a2f2f9ba2e5bfb735df6ea.png",
+        "pos_patch_num": 735,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "107298070a42c9da148eff890eefdf83": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "b7d8b5ce6e19d502992eb04a462fc9c8": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "3dd7d760218c17bf57e05bd253479db9": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "054993d935073e33d5ca59ad96cb8a2d": {
+        "patch_labels": "data/ESCC/patch/gt/054993d935073e33d5ca59ad96cb8a2d.png",
+        "pos_patch_num": 909,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "4d84e577096fcaf59f83fa5e198cf4de": {
+        "patch_labels": "data/ESCC/patch/gt/4d84e577096fcaf59f83fa5e198cf4de.png",
+        "pos_patch_num": 1270,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "1db5230277e6403229d9bf0f555fb4c9": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "26486c6482090819c6a472c63a8a29df": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "222b31adcdeb90c0d0c3ae1beabd03d4": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "c6d6f7cf0ceee1fd2a24eb217ae567f4": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "f7ff2f94ffe9e629543a2523bebf01ef": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "b440736929124819f3589f1e0a203720": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "913197053f287288f34970f6aef67dbd": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "76f771f1b8e1cf86abcbd141c51ae7c3": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "d0983abaaaf60386646e893ba11d913d": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "0e5cd642a49ea61a5bdfd65ecd4d1b19": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "05aa99c2cad9cb8a76e1ee91dfcd4ebe": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "3185fd2f576cd9609f2ed71605e140c7": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "d9fe0feb8346f06d378d2326132298f5": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "8c47be817287b90bf67fd206ea921033": {
+        "patch_labels": "data/ESCC/patch/gt/8c47be817287b90bf67fd206ea921033.png",
+        "pos_patch_num": 125,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "e004986d3841bfbc410214fe8711cdd7": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "f1288acebf742e74691e3a49626a87d1": {
+        "patch_labels": "data/ESCC/patch/gt/f1288acebf742e74691e3a49626a87d1.png",
+        "pos_patch_num": 5242,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "a2e22a3018c879f364546a39ab4a440f": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "6ac207d2e2c56c06d766b56ba78420a1": {
+        "patch_labels": "data/ESCC/patch/gt/6ac207d2e2c56c06d766b56ba78420a1.png",
+        "pos_patch_num": 439,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "d9e0b71445fb6c74fbd493a525f9bdb2": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "b3692bf44c386d0aeaa95d745470abfd": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "5b9857ad6c6f19a6e9a6516453bf1514": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "9a7cb094ff5455720005fa1fc84780bf": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "9cde543386a1a239cf8d73cd422c8a7b": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "872770aa5d375e775ee6950f5cfc344f": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "b27f331bda6ad5a49e02a11b6d73a8c4": {
+        "patch_labels": "data/ESCC/patch/gt/b27f331bda6ad5a49e02a11b6d73a8c4.png",
+        "pos_patch_num": 246,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "1d4ffe87967aff510042bd4bc58c97b9": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "44a28c902fc34722f8c5ae91001f0e30": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "e7d657b8f75a2439cf232013337c0455": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "b129d497b59fd02978772aab19f57dff": {
+        "patch_labels": "data/ESCC/patch/gt/b129d497b59fd02978772aab19f57dff.png",
+        "pos_patch_num": 482,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "f2dc0507210535a27a3558486cb6185d": {
+        "patch_labels": "data/ESCC/patch/gt/f2dc0507210535a27a3558486cb6185d.png",
+        "pos_patch_num": 597,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "362c7be4636ef6f7ce607f3179f439dd": {
+        "patch_labels": "data/ESCC/patch/gt/362c7be4636ef6f7ce607f3179f439dd.png",
+        "pos_patch_num": 1081,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "9710fb619ab2ba37d8619ebbc8552ceb": {
+        "patch_labels": "data/ESCC/patch/gt/9710fb619ab2ba37d8619ebbc8552ceb.png",
+        "pos_patch_num": 1395,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "ef8dc0dd97928e9551cdc8d93eb2a3c9": {
+        "patch_labels": "data/ESCC/patch/gt/ef8dc0dd97928e9551cdc8d93eb2a3c9.png",
+        "pos_patch_num": 250,
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "d821f1c012446cf82a331d4956c1b14c": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "53d248ff29178f8066368489dc8b985d": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "4506fd9315e7e8e1af3e806393dadff1": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "d08be1a035d4fc05a25d52c8479277b2": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "6ad0ca4fa9837647280da19445c75d07": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "e07f9b771c48655c631fa89b410cf7b2": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "cd016618987036575cf7624c42f69038": {
+        "wsi_label": 1,
+        "fixed_test_set": false
+    },
+    "e7ce22cced759020974ec886c92f45a9": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    },
+    "0947627b5ff682d17b2e43c6c7257622": {
+        "wsi_label": 0,
+        "fixed_test_set": false
+    }
+}

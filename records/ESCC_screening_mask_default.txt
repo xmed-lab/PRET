@@ -1,0 +1,125 @@
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: /home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchvision/image.so: undefined symbol: _ZNK3c1010TensorImpl36is_contiguous_nondefault_policy_implENS_12MemoryFormatE
+  warn(f"Failed to load image Python extension: {e}")
+start feature processing ...
+finish feature processing and saving!
+searching ignore, param: 0
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching ignore, param: 0.02
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching ignore, param: 0.04
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching ignore, param: 0.06
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching ignore, param: 0.08
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+params: ignore, searched threshold: 0, mean:0.994
+searching topk, param: 20
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching topk, param: 30
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9949, auc std: 0.0058, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching topk, param: 40
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching topk, param: 50
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching topk, param: 60
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.994, auc std: 0.0053, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+params: topk, searched threshold: 20, mean:0.9959
+searching related_thresh, param: 0.86
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching related_thresh, param: 0.87
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching related_thresh, param: 0.88
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching related_thresh, param: 0.89
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching related_thresh, param: 0.9
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+params: related_thresh, searched threshold: 0.86, mean:0.9959
+searching temperature, param: 1
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching temperature, param: 5
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching temperature, param: 10
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching temperature, param: 20
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+searching temperature, param: 30
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+auc mean: 0.9959, auc std: 0.0062, f1 mean: 0.9701, f1 std: 0.0046, acc mean: 0.9667, acc std: 0.0
+params: temperature, searched threshold: 1, mean:0.9959
+Namespace(mode='default', topk=20, top_instance=3000, temperature=1, related_thresh=0.86, example_num=8, multiple_num=[1, 2, 4, 8], raw_feature_path='data/ESCC/patch/features', wsi_path='data/ESCC/images', dump_features='data/ESCC/patch/collected_features', dump_pseudo='', dump_records='records/ESCC_screening_mask_default.npy', vis_path='', dataset_info='data_info/ESCC.json', patch_scale=512, file_min_size=5000, c=1, seg=False, prompt_type='mask', prompt_path='data/ESCC/anno', ignore=0, ignore_query=0.2, seed=1024, runs=5, val_num=100, test_num=-1, val_ratio=0.3334)
+eval 1-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+class:1 val auc:0.9925, test auc:0.9798, val acc: 0.9394, test f1: 0.9231, test acc: 0.9091
+class:1 val auc:0.9925, test auc:0.9673, val acc: 0.9394, test f1: 0.8919, test acc: 0.8788
+class:1 val auc:0.963, test auc:0.9932, val acc: 0.9091, test f1: 0.9524, test acc: 0.9394
+class:1 val auc:0.9921, test auc:0.9539, val acc: 0.9394, test f1: 0.8831, test acc: 0.8636
+class:1 val auc:0.9841, test auc:0.9756, val acc: 0.9394, test f1: 0.9487, test acc: 0.9394
+auc mean: 0.974, auc std: 0.013, f1 mean: 0.9198, f1 std: 0.0284, acc mean: 0.9061, acc std: 0.0309
+eval 2-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+class:1 val auc:0.9765, test auc:0.9805, val acc: 0.9375, test f1: 0.9091, test acc: 0.8939
+class:1 val auc:0.9603, test auc:0.9865, val acc: 0.9062, test f1: 0.9286, test acc: 0.9091
+class:1 val auc:0.9766, test auc:0.9732, val acc: 0.9062, test f1: 0.9195, test acc: 0.8939
+class:1 val auc:0.9545, test auc:0.9963, val acc: 0.9062, test f1: 0.8889, test acc: 0.8636
+class:1 val auc:0.9833, test auc:0.9718, val acc: 0.9375, test f1: 0.9136, test acc: 0.8939
+auc mean: 0.9817, auc std: 0.009, f1 mean: 0.9119, f1 std: 0.0132, acc mean: 0.8909, acc std: 0.0148
+eval 4-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+class:1 val auc:0.9833, test auc:0.9772, val acc: 0.9688, test f1: 0.9067, test acc: 0.8906
+class:1 val auc:0.9838, test auc:0.984, val acc: 0.9375, test f1: 0.9333, test acc: 0.9219
+class:1 val auc:0.9758, test auc:0.9883, val acc: 0.9375, test f1: 0.9429, test acc: 0.9375
+class:1 val auc:1.0, test auc:0.9754, val acc: 0.9688, test f1: 0.9367, test acc: 0.9219
+class:1 val auc:0.9855, test auc:0.9707, val acc: 0.9375, test f1: 0.9118, test acc: 0.9062
+auc mean: 0.9791, auc std: 0.0063, f1 mean: 0.9263, f1 std: 0.0143, acc mean: 0.9156, acc std: 0.0159
+eval 8-shot:
+/home/ylini/anaconda3/envs/PRET/lib/python3.9/site-packages/torchmetrics/utilities/prints.py:36: UserWarning: Metric `AUROC` will save all targets and predictions in buffer. For large datasets this may lead to large memory footprint.
+  warnings.warn(*args, **kwargs)
+class:1 val auc:0.9841, test auc:0.9667, val acc: 0.9667, test f1: 0.9206, test acc: 0.9194
+class:1 val auc:1.0, test auc:0.9812, val acc: 0.9667, test f1: 0.9254, test acc: 0.9194
+class:1 val auc:0.9955, test auc:0.9792, val acc: 0.9667, test f1: 0.8696, test acc: 0.8548
+class:1 val auc:1.0, test auc:0.9562, val acc: 0.9667, test f1: 0.9143, test acc: 0.9032
+class:1 val auc:1.0, test auc:0.9577, val acc: 0.9667, test f1: 0.9275, test acc: 0.9194
+auc mean: 0.9682, auc std: 0.0105, f1 mean: 0.9115, f1 std: 0.0214, acc mean: 0.9032, acc std: 0.025

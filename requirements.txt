@@ -1,0 +1,21 @@
+# for deep learning
+torch==1.12.1
+torchvision==0.13.1
+
+# for image loading
+openslide-python==1.4.1
+openslide-bin
+opencv-python==4.4.0.46
+
+# for eval
+numpy==1.18.1
+scipy
+scikit-learn==0.22.1
+torchmetrics==0.9.1
+
+# for camelyon16-c
+visdom==0.2.4
+wandb==0.12.21
+scikit-image
+pillow==7.0.0
+wand
