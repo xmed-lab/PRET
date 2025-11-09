@@ -1,4 +1,4 @@
-# PRET: Achieving Pan-Cancer Recognition via a Few Samples Without Training
+# PRET: a Few-Shot System for Pan-Cancer Recognition Without Example Training
 
 
 ## Introduction
