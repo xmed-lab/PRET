@@ -7,13 +7,11 @@
 
 * This the data flow of our method to assist in understanding the code.
 
-![](https://huggingface.co/yili7eli/PRET/tree/main/preview.png)
+![](https://github.com/xmed-lab/PRET/blob/main/preview.png)
 
-
-* Besides the code, all in-house datasets and labels are avaliable too ([DATA](https://huggingface.co/datasets/yili7eli/PRET/tree/main)).
+* Besides the code, all in-house datasets and labels are available too ([DATA](https://huggingface.co/datasets/yili7eli/PRET/tree/main)).
 
 * The paper will be released upon acceptance.
-
 
 ## Requesting Access
 As required by our data providers, you must agree to the outlined terms of use and provide the required information for approval. We will approve your request as soon as possible so that you can download the code model and data. Other reasons for your request access being denied include other mistakes in the form submitted, for example: full name includes abbreviations, affiliation is not spelled out, the described research use is not sufficient, or email domain address not recognized. We close the approval process upon paper acceptance.
