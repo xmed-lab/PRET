@@ -256,7 +256,14 @@ auc mean: 0.9748, auc std: 0.0181, f1 mean: 0.9124, f1 std: 0.048, acc mean: 0.8
 
 ## Citation
 
-The paper is coming soon (accepted and waiting for publication).
+@article{li2026pret,
+  title={PRET is a few-shot system for pan-cancer recognition without example training},
+  author={Li, Yi and Ning, Ziyu and Xiang, Tianqi and Zhang, Qixiang and Lin, Zhihao and Yi, Min and Feng, Feiyan and Zeng, Baozhen and Qian, Xuexia and Sun, Lu and others},
+  journal={Nature Cancer},
+  pages={1--15},
+  year={2026},
+  publisher={Nature Publishing Group US New York}
+}
 
 ## License
 ```
