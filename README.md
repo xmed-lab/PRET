@@ -255,7 +255,7 @@ auc mean: 0.9748, auc std: 0.0181, f1 mean: 0.9124, f1 std: 0.048, acc mean: 0.8
 * The process involves slide slicing, feature extraction, hyperparameter search, multiple shot settings, multiple prompts, and repeated experiments, which can take a few or dozens of hours depending on the data scale, CPU, GPU, and IO speed.
 
 ## Citation
-
+```
 @article{li2026pret,
   title={PRET is a few-shot system for pan-cancer recognition without example training},
   author={Li, Yi and Ning, Ziyu and Xiang, Tianqi and Zhang, Qixiang and Lin, Zhihao and Yi, Min and Feng, Feiyan and Zeng, Baozhen and Qian, Xuexia and Sun, Lu and others},
@@ -264,6 +264,7 @@ auc mean: 0.9748, auc std: 0.0181, f1 mean: 0.9124, f1 std: 0.048, acc mean: 0.8
   year={2026},
   publisher={Nature Publishing Group US New York}
 }
+```
 
 ## License
 ```
